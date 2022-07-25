@@ -8,3 +8,6 @@ I love plumeria trees! I recently purchased one from Home Depot and am keeping i
 ![Plot](Plumeria_tree_data_growth_1%20-%20Copy.PNG)
 
 There are two branches with a bunch of leaves at the crest, I am just measuring the leaves at the top of the main branch. Obviously there are days when I am not around to measure and/or forget. I just hold up my ruler next to the leaves and estimate how long the leaf is, +/- half an inch or so. 
+
+# Updates
+I plan to update this repo over time, so stay tuned!
